@@ -1,21 +1,12 @@
-# 👋 Hi, I'm Gabriel
+# 👋 Hi, I'm Gabriel 📢 Let's Connect [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-kopacz)
 
 🚀 IT Infrastructure & Support Engineer transitioning into Cybersecurity <br>
 🔍 Focusing on Blue Team Fundamentals & SOC Analyst Skillsets <br>
 🧠 Currently documenting a 90-Day Cybersecurity Journey across multiple hands-on projects
 
----
-
-## 📢 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-kopacz)
-
----
-
 ## 🛡️ Objective
 
 With 5 years of enterprise IT infrastructure and support experience, I'm now transitioning into cybersecurity — specifically targeting a Tier 1 SOC Analyst role. Currently executing a 90-day journey of daily blue team builds, tracked on GitHub and shared on LinkedIn.
-
----
 
 ## 🚀 Projects
 
@@ -28,8 +19,6 @@ With 5 years of enterprise IT infrastructure and support experience, I'm now tra
 | Incident Response Planning and Execution      | Coming Soon |
 | Case Management with TheHive                  | Coming Soon |
 | Scripting and Automation for Threat Mitigation | Coming Soon |
-
----
 
 ## 📆 Upcoming Project Themes
 
@@ -61,8 +50,6 @@ With 5 years of enterprise IT infrastructure and support experience, I'm now tra
 - Secret Scanning
 - Software Composition Analysis
 
----
-
 ## 💻 Tools
 
 ### Network
@@ -84,8 +71,6 @@ With 5 years of enterprise IT infrastructure and support experience, I'm now tra
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
----
 
 ## 📜 Certifications 
 
