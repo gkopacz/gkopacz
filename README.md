@@ -6,7 +6,7 @@
 
 ## 🛡️ Objective
 
-With 5 years of enterprise IT infrastructure and support experience, I'm now transitioning into cybersecurity — specifically targeting a Tier 1 SOC Analyst role. Currently executing a 90-day journey of daily blue team builds, tracked on GitHub and shared on LinkedIn.
+With 5 years of enterprise IT infrastructure and support experience, I'm now transitioning into cybersecurity — specifically targeting a Tier 1 SOC Analyst role. Currently executing a 90-day journey of daily blue team learning, tracked on GitHub and shared on LinkedIn.
 
 ## 🚀 Projects
 
@@ -19,36 +19,6 @@ With 5 years of enterprise IT infrastructure and support experience, I'm now tra
 | Incident Response Planning and Execution      | Coming Soon |
 | Case Management with TheHive                  | Coming Soon |
 | Scripting and Automation for Threat Mitigation | Coming Soon |
-
-## 📆 Upcoming Project Themes
-
-### 🔐 Blue Team & SIEM
-- Wazuh Setup
-- Elastic SIEM
-- Suricata at Home
-- Security Onion
-- Phishing Email Analysis
-- Scam Email Analysis
-
-### 🕵️‍♂️ OSINT & Recon
-- Setup Spiderfoot
-- Find Anyone Using OSINT
-- 3 Analyst Tools for Beginners
-
-### 🧪 Malware & PDF Analysis
-- Analyze Malicious PDFs
-- Analyze Malware
-
-### 🔧 Infrastructure & Lab
-- Cloud Home Lab Setup
-- Make Your Own VPN
-- Install Kali on MAC
-- Infrastructure as Code Setup
-
-### 🧱 Security Testing / Automation
-- OWASP JuiceShop
-- Secret Scanning
-- Software Composition Analysis
 
 ## 💻 Tools
 
