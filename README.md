@@ -110,7 +110,7 @@ With 5 years of enterprise IT infrastructure and support experience, I'm now tra
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gkopacz/gkopacz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gkopacz/gkopacz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gkopacz/gkopacz/output/github-snake.svg" />
 </picture>
