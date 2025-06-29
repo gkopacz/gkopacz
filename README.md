@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriel 📢 Let's Connect [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-kopacz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=gkopacz&style=flat-square&color=blue)
+# 👋 Hi, I'm Gabriel 📢 Let's Connect [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-kopacz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=gkopacz&style=flat-square&color=blue)
 
 🚀 IT Infrastructure & Support Engineer transitioning into Cybersecurity <br>
 🔍 Focusing on Blue Team Fundamentals & SOC Analyst Skillsets <br>
