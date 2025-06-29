@@ -66,11 +66,13 @@ With 5 years of enterprise IT infrastructure and support experience, I'm now tra
 <img src="https://img.shields.io/badge/-BTL1-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gkopacz/gkopacz/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gkopacz/gkopacz/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gkopacz/gkopacz/output/github-snake.svg" />
 </picture>
+</div> <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gkopacz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
