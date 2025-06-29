@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Gabriel 📢 Let's Connect [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-kopacz)
 
+![Profile Views](https://komarev.com/ghpvc/?username=gkopacz&style=flat-square&color=blue)
+
 🚀 IT Infrastructure & Support Engineer transitioning into Cybersecurity <br>
 🔍 Focusing on Blue Team Fundamentals & SOC Analyst Skillsets <br>
 🧠 Currently documenting a 90-Day Cybersecurity Journey across multiple hands-on projects
@@ -62,6 +64,10 @@ With 5 years of enterprise IT infrastructure and support experience, I'm now tra
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-F80000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-BTL1-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gkopacz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 <picture>
