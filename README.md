@@ -73,8 +73,6 @@ With 5 years of enterprise IT infrastructure and support experience, I'm now tra
 </picture>
 </div> <br>
 
----
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gkopacz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
