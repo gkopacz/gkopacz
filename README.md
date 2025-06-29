@@ -12,7 +12,7 @@ With 5 years of enterprise IT infrastructure and support experience, I'm now tra
 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cybersecurity HomeLab Design and Setup        | <a href="https://github.com/gkopacz/CyberSec-HomeLab/blob/main/README.md">CyberSec-HomeLab</a>|
+| Cybersecurity HomeLab Design and Setup        | <a href="https://github.com/gkopacz/CyberSec-HomeLab/tree/main">CyberSec-HomeLab</a>|
 | SIEM Implementation and Log Analysis | Coming Soon |
 | Network Traffic Monitoring and Attack Detection | Coming Soon |
 | Security Automation with Shuffle SOAR         | Coming Soon |
