@@ -19,6 +19,7 @@ With 5 years of enterprise IT infrastructure and support experience, I'm now tra
 | Incident Response Planning and Execution      | Coming Soon |
 | Case Management with TheHive                  | Coming Soon |
 | Scripting and Automation for Threat Mitigation | Coming Soon |
+| Securing AWS Endpoint with Elastic SIEM & AI Automation | <a href="https://github.com/gkopacz/Cloud-SIEM-AI-Automation/tree/main">Cloud-SIEM-AI-Automation</a>|
 
 ## 💻 Tools
 
